@@ -1,3 +1,4 @@
+//otro cambio prueba
 import product from "../models/product.js";
 //llega de la vista request y el response es lo q sta fuyncion va a devolver
 //el response dice q va devovler
